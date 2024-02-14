@@ -2,10 +2,13 @@
         body {
             height: 100%;
             width: 100%;
+<<<<<<< HEAD
             padding: 0;
+            margin: 0 auto;
+=======
+            padding: 20px;
             margin: 0;
-            padding: 5px;
-            margin: 0;
+>>>>>>> branch2
         }
         @font-face{
             font-family: "Segoe UI";
